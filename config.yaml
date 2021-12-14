@@ -1,0 +1,9 @@
+targetPrimaryNode: hostname.dom.com
+whatDay: 
+email:
+  to:
+    - ""
+  from: ""
+  smtpHost: ""
+  smtpPort: ""
+  subject: ""
