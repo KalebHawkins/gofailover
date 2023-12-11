@@ -60,7 +60,7 @@ Verify the installation using the `goreleaser --version` command.
 To build a binary you need to clone the repository. Move into the repository and run the build command. See below.
 
 ```bash
-git clone https://hnapxlscmgit01.amerhonda.com/vfc01813/gofailover.git
+git clone https://github.com/KalebHawkins/gofailover.git
 cd gofailover
 goreleaser build --rm-dist
 ```
